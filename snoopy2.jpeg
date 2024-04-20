@@ -1,0 +1,462 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta charset="utf-8" />
+<link rel="shortcut icon" href="https://www.somersethouse.org.uk/sites/default/files/somerset_logo%20%281%29.ico" type="image/vnd.microsoft.icon" />
+<link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="MobileOptimized" content="width" />
+<meta http-equiv="cleartype" content="on" />
+<link rel="apple-touch-icon-precomposed" href="https://www.somersethouse.org.uk/sites/all/themes/omega/omega/apple-touch-icon-precomposed-72x72.png" sizes="72x72" />
+<link rel="apple-touch-icon-precomposed" href="https://www.somersethouse.org.uk/sites/all/themes/omega/omega/apple-touch-icon-precomposed-144x144.png" sizes="144x144" />
+<link rel="apple-touch-icon" href="https://www.somersethouse.org.uk/sites/all/themes/omega/omega/apple-touch-icon.png" />
+<link rel="apple-touch-icon-precomposed" href="https://www.somersethouse.org.uk/sites/all/themes/omega/omega/apple-touch-icon-precomposed-114x114.png" sizes="114x114" />
+<meta name="robots" content="noodp" />
+<meta name="viewport" content="width=device-width" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="https://www.somersethouse.org.uk/whats-on/good-grief-charlie-brown/good-grief-gallery-late-love-is-unrequited" />
+<link rel="shortlink" href="https://www.somersethouse.org.uk/node/1384" />
+<meta property="og:site_name" content="Somerset House" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Good Grief! Gallery Late: Love Is…Unrequited" />
+<meta property="og:url" content="https://www.somersethouse.org.uk/whats-on/good-grief-charlie-brown/good-grief-gallery-late-love-is-unrequited" />
+<meta property="og:updated_time" content="2019-02-09T08:53:49+00:00" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Good Grief! Gallery Late: Love Is…Unrequited" />
+<meta name="twitter:description" content="Take a wry look at Valentine’s Day through the work of Charles M. Schulz. Enjoy an after hours view of Good Grief, Charlie Brown! &amp; meet your match through artist led activity." />
+<meta name="twitter:image" content="https://www.somersethouse.org.uk/sites/default/files/Detail%20of%20Peanuts%2006.07.1968%20%C2%A9%20Peanuts%20header.png" />
+<meta property="article:published_time" content="2018-09-25T12:55:14+01:00" />
+<meta property="article:modified_time" content="2019-02-09T08:53:49+00:00" />
+  <title>Good Grief! Gallery Late: Love Is…Unrequited | Somerset House</title>
+  <link rel="icon" type="image/png" sizes="32x32" href="sites/all/themes/somerset/images/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="sites/all/themes/somerset/images/favicon-16x16.png">
+  <link rel="manifest" href="sites/all/themes/somerset/images/manifest.json">
+  <link rel="mask-icon" href="sites/all/themes/somerset/images/somerset_logo.svg" color="#5bbad5">
+  <link rel="mask-icon" href="sites/all/themes/somerset/images/safari-pinned-tab.svg" color="#5bbad5">
+
+  <link rel="icon" type="image/png" href="/sites/all/themes/omega/omega/apple-touch-icon.png" />
+  <link rel="icon" type="image/png" href="sites/all/themes/omega/omega/apple-touch-icon-precomposed-144x144.png" sizes="144x144" />
+  <link rel="icon" type="image/png" href="sites/all/themes/omega/omega/apple-touch-icon-precomposed-114x114.png" sizes="114x114" />
+  <link rel="icon" type="image/png" href="sites/all/themes/omega/omega/apple-touch-icon-precomposed-72x72.png" sizes="72x72" />
+
+  <meta name="theme-color" content="#ffffff">
+  <meta name="google-site-verification" content="mJtEKWNLjfXYRwimiEyu7QUwr-cxkYswL-M9nGR7jwM" />
+  <meta name="facebook-domain-verification" content="o1tyi1q19zd1uj2i4r92630eq6j9hc" />
+
+  <style>
+@import url("https://www.somersethouse.org.uk/sites/all/themes/omega/omega/css/modules/system/system.base.css?s80o4a");
+@import url("https://www.somersethouse.org.uk/sites/all/themes/omega/omega/css/modules/system/system.menus.theme.css?s80o4a");
+@import url("https://www.somersethouse.org.uk/sites/all/themes/omega/omega/css/modules/system/system.messages.theme.css?s80o4a");
+@import url("https://www.somersethouse.org.uk/sites/all/themes/omega/omega/css/modules/system/system.theme.css?s80o4a");
+@import url("https://www.somersethouse.org.uk/sites/all/modules/contrib/date/date_repeat_field/date_repeat_field.css?s80o4a");
+@import url("https://www.somersethouse.org.uk/modules/node/node.css?s80o4a");
+@import url("https://www.somersethouse.org.uk/sites/all/themes/omega/omega/css/modules/field/field.theme.css?s80o4a");
+@import url("https://www.somersethouse.org.uk/sites/all/themes/omega/omega/css/modules/search/search.theme.css?s80o4a");
+@import url("https://www.somersethouse.org.uk/sites/all/modules/contrib/views/css/views.css?s80o4a");
+@import url("https://www.somersethouse.org.uk/sites/all/themes/omega/omega/css/modules/user/user.base.css?s80o4a");
+@import url("https://www.somersethouse.org.uk/sites/all/themes/omega/omega/css/modules/user/user.theme.css?s80o4a");
+</style>
+<style>
+@import url("https://www.somersethouse.org.uk/sites/all/modules/contrib/ctools/css/ctools.css?s80o4a");
+@import url("https://www.somersethouse.org.uk/sites/all/modules/contrib/panels/css/panels.css?s80o4a");
+@import url("https://www.somersethouse.org.uk/sites/all/modules/custom/somerset_social_links/css/somerset_social_links.css?s80o4a");
+@import url("https://www.somersethouse.org.uk/sites/all/modules/contrib/field_collection/field_collection.theme.css?s80o4a");
+</style>
+<style>
+@import url("https://www.somersethouse.org.uk/sites/all/themes/omega/omega/css/omega.development.css?s80o4a");
+@import url("https://www.somersethouse.org.uk/sites/all/themes/somerset/css/somerset.styles.css?s80o4a");
+</style>
+      <!-- OneTrust Cookies Consent Notice start for somersethouse.org.uk -->
+    <script type="text/javascript"
+            src="https://cdn-ukwest.onetrust.com/consent/37630f97-8538-482f-bf57-9b5b79d505b8/OtAutoBlock.js"></script>
+    <script src="https://cdn-ukwest.onetrust.com/scripttemplates/otSDKStub.js"
+            type="text/javascript" charset="UTF-8"
+            data-domain-script="37630f97-8538-482f-bf57-9b5b79d505b8"></script>
+    <script type="text/javascript">function OptanonWrapper() { }
+    </script><!-- OneTrust Cookies Consent Notice end for somersethouse.org.uk -->
+    
+  <script defer="defer" src="https://www.somersethouse.org.uk/sites/default/files/google_tag/google_tag.script.js?s80o4a"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script>window.jQuery || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/jquery/1.10/jquery.min.js'>\x3C/script>")</script>
+<script src="https://www.somersethouse.org.uk/misc/jquery-extend-3.4.0.js?v=1.10.2"></script>
+<script src="https://www.somersethouse.org.uk/misc/jquery-html-prefilter-3.5.0-backport.js?v=1.10.2"></script>
+<script src="https://www.somersethouse.org.uk/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.somersethouse.org.uk/misc/drupal.js?s80o4a"></script>
+<script src="https://www.somersethouse.org.uk/sites/all/themes/omega/omega/js/no-js.js?s80o4a"></script>
+<script src="https://www.somersethouse.org.uk/sites/all/modules/contrib/field_group/field_group.js?s80o4a"></script>
+<script src="https://www.somersethouse.org.uk/sites/all/themes/somerset/js/youtube.iframe.api.js?s80o4a"></script>
+<script src="https://www.somersethouse.org.uk/sites/all/themes/somerset/js/vimeo.iframe.api.js?s80o4a"></script>
+<script src="https://www.somersethouse.org.uk/sites/all/themes/somerset/js/somerset.behaviors.js?s80o4a"></script>
+<script src="https://www.somersethouse.org.uk/sites/all/themes/somerset/js/somerset.slider.js?s80o4a"></script>
+<script src="https://www.somersethouse.org.uk/sites/all/themes/somerset/js/somerset.menu.js?s80o4a"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"field_group":{"div":"full"},"urlIsAjaxTrusted":{"\/whats-on\/good-grief-charlie-brown\/good-grief-gallery-late-love-is-unrequited":true},"somerset":{"type":"event_page"}});</script>
+</head>
+<body class="html not-front not-logged-in page-node page-node- page-node-1384 node-type-event-page section-whats-on"  class="html not-front not-logged-in page-node page-node- page-node-1384 node-type-event-page section-whats-on">
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+  <noscript aria-hidden="true"><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-54VD62M" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>  <div class="l-page">
+  <div id="block-system-main-menu" class="block block--system block--menu block--system-main-menu" id="block-system-main-menu" role="navigation" class="block block--system block--menu block--system-main-menu">
+  <div class="somerset-main-menu-wrapper">
+    <div class="somerset-mobile-menu">
+      <div class="branding branding--tagline mobile-branding">
+        <div class="branding-logo">
+          <a href='/'>
+                          <img class="branding--logo__img  branding--logo__img--black" src="/sites/all/themes/somerset/images/somerset-logo-tagline-black.png" alt="Somerset House. Step inside. Think Outside.">
+                      </a>
+        </div>
+      </div>
+      <div class="mobile-menu-controls">
+        <div id="menu--open-button" class="menu-icon menu-action-button">
+          <img src="/sites/all/themes/somerset/images/hamburger.svg">
+          <div class="menu-text">Menu</div>
+        </div>
+        <div id="menu--close-button" class="menu-icon menu-action-button">
+          <img src="/sites/all/themes/somerset/images/close.svg">
+          <div class="menu-text">Close</div>
+        </div>
+      </div>
+    </div>
+    <div class="somerset-menu">
+      <div class="somerset-menu-wrapper">
+        <div class="branding branding--tagline">
+          <div class="branding-logo">
+            <a href='/'>
+                              <img class="branding--logo__img branding--logo__img--black" src="/sites/all/themes/somerset/images/somerset-logo-tagline-black.png" alt="Somerset House. Step inside. Think Outside.">
+                          </a>
+          </div>
+        </div>
+        <div class="somerset-main-menu">
+          <ul class="menu nav main-menu-parent"><li class="first collapsed"><a href="/whats-on">What&#039;s On</a></li>
+<li class="leaf"><a href="/work-from-somerset-house">Work from Somerset House</a></li>
+<li class="collapsed"><div class="entity entity-menu-fields menu-fields-main-menu clearfix" class="entity entity-menu-fields menu-fields-main-menu">
+  <div class="content main-menu-content-wrapper">
+    <a href="/" class="collapsed">Your Visit</a>      <div class="content main-menu-content">
+        <div class="dropdown-menu-wrapper">
+          <div class="main-menu-content-link-children"><ul class="menu nav main-menu-children"><li class="first leaf"><a href="/plan-your-visit">Plan Your Visit</a></li>
+<li class="collapsed"><a href="/eating-and-drinking">Eat &amp; Drink</a></li>
+<li class="leaf"><a href="/accessibility">Accessibility</a></li>
+<li class="last leaf"><a href="https://www.somersethouseshop.com">Shop</a></li>
+</ul> </div>
+          <div class="main-menu-content-featured-item"></div>
+        </div>
+      </div>
+  </div>
+</div>
+</li>
+<li class="last collapsed"><div class="entity entity-menu-fields menu-fields-main-menu clearfix" class="entity entity-menu-fields menu-fields-main-menu">
+  <div class="content main-menu-content-wrapper">
+    <a href="https://channel.somersethouse.org.uk" id="menu--channel" class="last collapsed">Channel</a>      <div class="content main-menu-content">
+        <div class="dropdown-menu-wrapper">
+          <div class="main-menu-content-link-children"><ul class="menu nav main-menu-children"><li class="first last leaf"><a href="/channel-redirect">Our new online space</a></li>
+</ul> <div class="field-collection-container clearfix"><div class="field field--name-promotio-nav-item field--type-field-collection field--label-hidden"><div class="field__items"><div class="field__item even"><div class="field-collection-view clearfix view-mode-full field-collection-view-final"><div class="entity entity-field-collection-item field-collection-item-promotio-nav-item clearfix" about="/field-collection/promotio-nav-item/1362" class="entity entity-field-collection-item field-collection-item-promotio-nav-item">
+  <div class="content">
+    <div class="field field--name-field-nav-prom-description field--type-text field--label-hidden"><div class="field__items"><div class="field__item even">Channel is Somerset House’s new curated online space for art, ideas and the artistic process.</div></div></div>
+<div class="field field--name-field-nav-prom-cta field--type-link-field field--label-hidden">
+    <div class="field-items">
+          <div class="field-item even"><a href="https://channel.somersethouse.org.uk">Find out more</a></div>
+      </div>
+</div>
+  </div>
+</div>
+</div></div></div></div></div></div>
+          <div class="main-menu-content-featured-item"><div class="field-collection-container clearfix"><div class="field field--name-main-nav-featured-item field--type-field-collection field--label-hidden"><div class="field__items"><div class="field__item even"><div class="field-collection-view clearfix view-mode-full field-collection-view-final"><div class="entity entity-field-collection-item field-collection-item-main-nav-featured-item clearfix" about="/field-collection/main-nav-featured-item/1361" class="entity entity-field-collection-item field-collection-item-main-nav-featured-item">
+  <div class="content">
+    <div class="collapsible featured-mosaic speed-fast effect-none">
+      <h3><span class="field-group-format-toggler"></span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field--name-field-featured-item-image field--type-image field--label-hidden"><div class="field__items"><div class="field__item even"><img typeof="foaf:Image" src="https://www.somersethouse.org.uk/sites/default/files/Revital%20Cohen%20%26%20Tuur%20Van%20Balen%20May%20The%20Fox%20Take%20You%20STILL-7.jpg.jpg" width="600" height="336" alt="Revital Cohen &amp; Tuur Van Balen May The Fox Take You" /></div></div></div><div class="field field--name-field-featured-item-image-tag field--type-text field--label-hidden"><div class="field__items"><div class="field__item even">Commission</div></div></div><div class="field field--name-field-featured-item-title field--type-text field--label-hidden"><div class="field__items"><div class="field__item even">Revital Cohen &amp; Tuur Van Balen: May The Fox Take You</div></div></div>
+<div class="field field--name-field-featured-item-cta field--type-link-field field--label-hidden">
+    <div class="field-items">
+          <div class="field-item even"><a href="https://channel.somersethouse.org.uk/artworks/all/may-the-fox-take-you">Find out more</a></div>
+      </div>
+</div>
+</div></div>  </div>
+</div>
+</div></div></div></div></div></div>
+        </div>
+      </div>
+  </div>
+</div>
+</li>
+</ul>        </div>
+
+        <div class="somerset-secondary-main-menu">
+                      <div class="somerset-secondary-label"><a href="/about-somerset-house">The Home of Cultural Innovators – learn more</a></div>
+                    <div class="somerset-secondary-right">
+            <div class="somerset-secondary-menu-items">
+              <ul class="menu"><li class="first leaf fas fa-cart-plus"><a href="https://my.somersethouse.org.uk/cart/details">View Basket</a></li>
+<li class="leaf"><a href="https://my.somersethouse.org.uk/account/shortreg.aspx">Sign up</a></li>
+<li class="leaf"><a href="/venue-hire">Venue Hire</a></li>
+<li class="leaf"><a href="/support-us-2020">Support us</a></li>
+<li class="last leaf"><a href="/news">News</a></li>
+</ul>            </div>
+            <div class="somerset-secondary-menu-search">
+              <form class="apachesolr-panels-search-block--2" action="/whats-on/good-grief-charlie-brown/good-grief-gallery-late-love-is-unrequited" method="post" id="apachesolr-panels-search-block--2" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-apachesolr-panels-search-form">
+  <label class="element-invisible" for="edit-apachesolr-panels-search-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." placeholder="Search" type="text" id="edit-apachesolr-panels-search-form--2" name="apachesolr_panels_search_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<input type="hidden" name="form_build_id" value="form-z0INprrrhar5p8JdkAS0DWqn2NrhTtvrkutJCvnWeAw" />
+<input type="hidden" name="form_id" value="apachesolr_panels_search_block" />
+<div class="form-actions form-wrapper" id="edit-actions--2"><input type="submit" id="edit-submit--2" name="op" value="Search" class="form-submit" /></div></div></form>            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+  
+  <div class="l-main">
+    <div class="l-content" role="main">
+      <div class="container pos-abs">
+                                      </div>
+      
+<div class="l-border--right"></div>
+<div class="l-node--content c-node--event">
+
+      <div class= "l-node--header" >
+                <header>
+            
+          <div class="c-image">
+        <div class="field field--name-field-header-image field--type-image field--label-hidden"><div class="field__items"><div class="field__item even"><img typeof="foaf:Image" src="https://www.somersethouse.org.uk/sites/default/files/styles/header_image/public/Detail%20of%20Peanuts%2006.07.1968%20%C2%A9%20Peanuts%20header.png?itok=Mh1WLdM8" width="1440" height="647" alt="" /></div></div></div>      </div>
+          
+            <div class="c-image-overlay">
+
+              
+<div class="breadcrumb-container">
+  <h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/whats-on"><i class='fa fa-angle-left' aria-hidden='true'></i> What's on</a></div></div>
+
+              <div class="c-image-title__position">
+
+                <div class="l-tag c-tag">
+                                      <div class="c-tag--first-left pre-title">
+                      Event                    </div>
+                  
+                                      <div class="c-tag--second-left pre-title">
+                      Thu 14 Feb 2019                    </div>
+                                  </div>
+
+                                <div class="l-teaser--title c-hero">
+                  <h1 style= class="node__title">
+                    <span class="wrap">
+                      <span class="inner" style="background-image:url('https://www.somersethouse.org.uk/sites/default/files/Detail%20of%20Peanuts%2006.07.1968%20%C2%A9%20Peanuts%20header.png');">
+                        Good Grief! Gallery Late: Love Is…Unrequited                      </span>
+                    </span>
+                  </h1>
+                </div>
+                <span property="dc:title" content="Good Grief! Gallery Late: Love Is…Unrequited" class="rdf-meta element-hidden"></span>                                  
+<div class="service-links-wrapper">
+    <div class="service-links"><div class="service-label">Share </div><ul class="links"><li class="service-links-facebook first"><a href="http://www.facebook.com/sharer.php?u=https%3A//www.somersethouse.org.uk/whats-on/good-grief-charlie-brown/good-grief-gallery-late-love-is-unrequited&amp;t=Good%20Grief%21%20Gallery%20Late%3A%20Love%20Is%E2%80%A6Unrequited" title="Share on Facebook" class="service-links-facebook" rel="nofollow" target="_blank"><img typeof="foaf:Image" src="https://www.somersethouse.org.uk/sites/all/modules/contrib/service_links/images/facebook.png" alt="Facebook logo" /></a></li>
+<li class="service-links-twitter last"><a href="http://twitter.com/share?url=https%3A//www.somersethouse.org.uk/whats-on/good-grief-charlie-brown/good-grief-gallery-late-love-is-unrequited&amp;text=Good%20Grief%21%20Gallery%20Late%3A%20Love%20Is%E2%80%A6Unrequited" title="Share this on Twitter" class="service-links-twitter" rel="nofollow" target="_blank"><img typeof="foaf:Image" src="https://www.somersethouse.org.uk/sites/all/modules/contrib/service_links/images/twitter.png" alt="Twitter logo" /></a></li>
+</ul></div></div>              </div>
+
+            </div>
+
+                      </header>
+          </div>
+  
+<div class="l-node--content">
+
+      <div class="l-node--top-info">
+      <div class="group-top-info field-group-div"><div class="group-cta-group field-group-div">
+<div class="field field--name-field-buy-ticket-cta field--type-link-field field--label-hidden">
+  <div class="field-items">
+          <div class="c-btn c-btn--primary c-cta--buy-ticket">
+        <a href="https://my.somersethouse.org.uk/single/SelectSeating.aspx?p=945">sold out</a>      </div>
+      </div>
+</div>
+</div><div class="group-event-date field-group-div"><div class="field field--name-field-event-date-for-display field--type-text field--label-hidden"><div class="field__items"><div class="field__item even">Thu 14 Feb 2019</div><div class="field__item odd">18.30 - 21.00</div><div class="field__item even">£19.00 / £16.00 concessions</div></div></div></div><div class="field field--name-field-location-info field--type-text field--label-hidden"><div class="field__items"><div class="field__item even">Embankment Galleries</div><div class="field__item odd">South Wing</div></div></div>
+<div class="field field--name-field-website-link field--type-link-field field--label-hidden">
+  <div class="field-items">
+          <div class="c-btn c-btn--special c-cta--website-link">
+        <a href="/whats-on/good-grief-charlie-brown">Part of Good Grief, Charlie Brown!</a>      </div>
+      </div>
+</div>
+
+<div class="field field--name-field-intro field--type-text-long field--label-hidden">
+  <div class="field-items">
+          <div class="c-field--intro">
+        <p>Take a wry look at Valentine’s Day through the work of Charles M. Schulz. Enjoy an after hours view of <a href="/whats-on/good-grief-charlie-brown">Good Grief, Charlie Brown!</a> &amp; meet your match through artist led activity.</p>
+      </div>
+      </div>
+</div>
+</div>    </div>
+  
+
+      <div class ="l-node--main-content">
+      <div class="group-main-content field-group-div">
+<div class="paragraphs-items paragraphs-items-field-main-content paragraphs-items-field-main-content-full paragraphs-items-full" class="paragraphs-items paragraphs-items-field-main-content paragraphs-items-field-main-content-full paragraphs-items-full">
+  <div class="field field--name-field-main-content field--type-paragraphs field--label-hidden"><div class="field__items"><div class="field__item even"><div class="entity entity-paragraphs-item paragraphs-item-body-area" class="entity entity-paragraphs-item paragraphs-item-body-area">
+  <div class="content">
+    <div class="field field--name-field-body field--type-text-with-summary field--label-hidden"><div class="field__items"><div class="field__item even"><p>All the loves in Schulz’s Peanuts strips are unrequited. His long-running story of Charlie Brown’s admiration for the Little Red-Haired Girl a reflection of his own rejection of a marriage proposal to the real-life Little Red-Haired Girl Donna Mae Johnson. For Schulz the idea that the greatest happiness was to be found in the simple sense of connection to others, in the strip itself the experience of happiness was a much more complex and elusive thing.</p>
+<p>Enjoy an exclusive after hours view of the <em><a href="/whats-on/good-grief-charlie-brown">Good Grief, Charlie Brown!</a></em> exhibition, experiencing each character as a catalyst for feelings beyond their control. Meet your match through online and offline collaborations with artist led activity from resident Somerset House Studios Artist Libby Heaney and workshops with Wilfrid Wood, previously ‘headbuilder’ for satirical TV program Spitting Image.</p>
+<p>Tickets include exhibition entry, complimentary drink, and the full access to late night activities subject to availability:</p>
+<h3><strong>Love Unrequited </strong></h3>
+<p><strong>Sign up to a time slot on arrival</strong><br />Exhibition tours will run throughout the evening revealing the underlying philosophical side of Peanuts and creator Schulz. Hear more of the roles and relationship behind each character and the inside scoop on who’s heartthrob is who’s.</p>
+<h3><strong>Love Online </strong></h3>
+<p><strong>Drop-in to join in</strong><br />Join resident <a href="/residents/libby-heaney">Somerset House Studios Artist Libby Heaney</a> and her Peanuts Chatterbots to explore the language of love. Interact with i-pad based conversation streams to chat up your favourite character from the comic strips and see what love notes they leave you in return.</p>
+<p><strong>About Libby Heaney:</strong><br /><em>Libby Heaney is an artist and lecturer at the Royal College of Art. With a background in quantum computing, Libby’s practice is concerned with the impacts of new technologies with a focus on participation, language and (un)storytelling. Libby has exhibited in the UK and internationally including at the V&amp;A, Tate Modern and Ars Electronica. </em></p>
+<p><em><a href="http://www.libbyheaney.co.uk">www.libbyheaney.co.uk</a></em> <a href="https://www.instagram.com/libbs7/?hl=en">@libbs7</a></p>
+<h3><strong>Love Offline </strong></h3>
+<p><strong>Sign up to a time slot on arrival</strong><br />Enjoy face to face fun at a drawing workshops with Wilfrid Wood. Whether you’ve arrived solo, with friends, lovers or partners, Wilfrid will be sprucing up your skills whilst offering up a moment or two to meet your match.</p>
+<p><strong>About Wilfrid Wood:</strong><br /><em>After dumping a career in graphics, Wilfrid plunged into prop making at cult classic British television show, Spitting Image. Here he learnt his trade as an ‘apprentice headbuilder’, starting in the Eyeballs and Blinks department and moving on to Dogs and Sheep.</em></p>
+<p><em>25 years later he is now a portrait artist. His subjects are famous people, invented characters, strangers and friends. He spends hours studying characters in the supermarket, on the bus and in celebrity magazines. Wilfrid is commissioned to make both sculpted and drawn portraits, regularly drawing people from life in his Hackney studio.</em></p>
+<p><em>Currently he is engaged in a series of pastel portraits, mainly of curious individuals who have made contact through Instagram and volunteered their time.</em></p>
+<p><a href="https://www.instagram.com/wilfridwoodsculptor/">@wilfridwoodsculptor</a></p>
+</div></div></div>  </div>
+</div>
+</div><div class="field__item odd"><div class="entity entity-paragraphs-item paragraphs-item-instagram-single-photo-area" class="entity entity-paragraphs-item paragraphs-item-instagram-single-photo-area">
+  <div class="content">
+    <div class="field field--name-field-embed-code field--type-text-long field--label-hidden"><div class="field__items"><div class="field__item even"><blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/Bl3CSPFAXQU/?utm_source=ig_embed&amp;utm_medium=loading" data-instgrm-version="12" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:16px;"> <a href="https://www.instagram.com/p/Bl3CSPFAXQU/?utm_source=ig_embed&amp;utm_medium=loading" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank"><br />
+<div style=" display: flex; flex-direction: row; align-items: center;">
+<div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"></div>
+<div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;">
+<div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"></div>
+<div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"></div>
+</div>
+</div>
+<div style="padding: 19% 0;"></div>
+<div style="display:block; height:50px; margin:0 auto 12px; width:50px;">
+<svg width="50px" height="50px" viewbox="0 0 60 60" version="1.1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink"><g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g transform="translate(-511.000000, -20.000000)" fill="#000000"><g><path d="M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631"></path></g></g></g></svg></div>
+<div style="padding-top: 8px;">
+<div style=" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;"> View this post on Instagram</div>
+</div>
+<div style="padding: 12.5% 0;"></div>
+<div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;">
+<div>
+<div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"></div>
+<div style="background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"></div>
+<div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"></div>
+</div>
+<div style="margin-left: 8px;">
+<div style=" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"></div>
+<div style=" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)"></div>
+</div>
+<div style="margin-left: auto;">
+<div style=" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"></div>
+<div style=" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"></div>
+<div style=" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"></div>
+</div>
+</div>
+<div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;">
+<div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;"></div>
+<div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;"></div>
+</div>
+<p></p></a><br />
+<p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/p/Bl3CSPFAXQU/?utm_source=ig_embed&amp;utm_medium=loading" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">A post shared by Wilfrid Wood (@wilfridwoodsculptor)</a> on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2018-07-30T14:56:01+00:00">Jul 30, 2018 at 7:56am PDT</time></p>
+</div>
+</blockquote>
+<script async="" defer="defer" src="//www.instagram.com/embed.js"></script></div></div></div>  </div>
+</div>
+</div></div></div></div>
+</div>    </div>
+  
+</div>
+
+          </div>
+  </div>
+
+  <footer class="l-footer-main" role="contentinfo">
+      <div class="l-region l-region--footer">
+    <nav id="block-menu-menu-footer-first-somerset-hou" role="navigation" class="block block--menu block--menu-menu-footer-first-somerset-hou">
+        <h2 class="block__title">Somerset House</h2>
+    
+  <ul class="menu"><li class="first leaf"><a href="/about-somerset-house" title="">About Somerset House</a></li>
+<li class="leaf"><a href="/contact-us" title="">Contact</a></li>
+<li class="leaf"><a href="https://careers.somersethouse.org.uk">Careers</a></li>
+<li class="leaf"><a href="/press" title="">Press</a></li>
+<li class="leaf"><a href="/anti-racism-pledge">Anti-racism</a></li>
+<li class="leaf"><a href="https://www.somersethouseshop.com/">Somerset House Shop</a></li>
+<li class="leaf"><a href="/history" title="">History</a></li>
+<li class="leaf"><a href="/event-archive-old" title="">Event Archive</a></li>
+<li class="leaf"><a href="/filming-and-photography" title="">Filming and Photography</a></li>
+<li class="leaf"><a href="/inclusive-talent-engagement">Inclusive Talent Engagement</a></li>
+<li class="leaf"><a href="/news">News</a></li>
+<li class="leaf"><a href="/whats-on/courtauld-gallery">The Courtauld Gallery</a></li>
+<li class="last leaf"><a href="/volunteering" title="">Volunteering</a></li>
+</ul></nav>
+
+<!-- additional class added to the h2 to split the text -->
+<div id="block-somerset-newsletter-somerset-newsletter-block" class="block block--somerset-newsletter block--somerset-newsletter-somerset-newsletter-block" id="block-somerset-newsletter-somerset-newsletter-block" class="block block--somerset-newsletter block--somerset-newsletter-somerset-newsletter-block">
+
+    
+  <div class="content" class="block__content">
+    <div class="newsletter-block">
+
+  <div class="newsletter-block__inner">
+
+    <h2 class="block__title">
+      Never miss a thing    </h2>
+
+    <div class="newsletter-block__text">
+      Sign up for our newsletter    </div>
+
+    <form method="post" action="https://my.somersethouse.org.uk/Account/ShortReg.aspx">
+      <input type="text"
+             placeholder="Your email here"
+             name="email"
+             value="aaa"
+             size="20"
+             required="required"
+             maxlength="128"
+             class="form-text required newsletter-block-mail">
+
+      <input type="submit" name="op" value="Subscribe" class="form-submit newsletter-block-submit">
+  </form>
+
+  </div>
+
+</div>
+  </div>
+</div>
+
+<!-- additional class added to the h2 to split the text -->
+<div id="block-somerset-social-links-somerset-social-links" class="block block--somerset-social-links block--somerset-social-links-somerset-social-links" id="block-somerset-social-links-somerset-social-links" class="block block--somerset-social-links block--somerset-social-links-somerset-social-links">
+
+    
+  <div class="content" class="block__content">
+    <div class="social-links-block">
+    <p class="block__subtitle">Somerset House</p>
+    <ul class="social-links-block__content">
+            <li><a href="https://www.facebook.com/somersethouse" target="_blank"><img class="social-links-icons" src='/sites/all/modules/custom/somerset_social_links/images/facebook.png' alt=''></a></li>
+            <li><a href="https://twitter.com/somersethouse" target="_blank"><img class="social-links-icons" src='/sites/all/modules/custom/somerset_social_links/images/twitter.png' alt=''></a></li>
+            <li><a href="https://www.instagram.com/somersethouse" target="_blank"><img class="social-links-icons" src='/sites/all/modules/custom/somerset_social_links/images/instagram.png' alt=''></a></li>
+            <li><a href="https://www.youtube.com/user/somersethouselondon" target="_blank"><img class="social-links-icons" src='/sites/all/modules/custom/somerset_social_links/images/youtube.png' alt=''></a></li>
+        </ul>
+
+    <p class="block__subtitle">Somerset House Studios</p>
+    <ul class="social-links-block__content">
+                    <li><a href="https://www.facebook.com/somersethousestudios" target="_blank"><img class="social-links-icons" src='/sites/all/modules/custom/somerset_social_links/images/facebook.png' alt=''></a></li>
+                    <li><a href="https://twitter.com/sh_studios_" target="_blank"><img class="social-links-icons" src='/sites/all/modules/custom/somerset_social_links/images/twitter.png' alt=''></a></li>
+                    <li><a href="https://www.instagram.com/somersethousestudios" target="_blank"><img class="social-links-icons" src='/sites/all/modules/custom/somerset_social_links/images/instagram.png' alt=''></a></li>
+                    <li><a href="https://www.youtube.com/playlist?list=PL-Hx5dRv0A5sXYIt7zzjd2pgj6ossdZPT" target="_blank"><img class="social-links-icons" src='/sites/all/modules/custom/somerset_social_links/images/youtube.png' alt=''></a></li>
+            </ul>
+</div>
+  </div>
+</div>
+  </div>
+    <div class="l-region--sub-footer-outer">
+      <div class="l-region l-region--sub-footer">
+      
+<!-- additional class added to the h2 to split the text -->
+<div id="block-block-1" class="block block--block block--block-1" id="block-block-1" class="block block--block block--block-1">
+
+    
+  <div class="content" class="block__content">
+    <p>© 2024 Somerset House Trust<br />Registered Charity No. 1063640<br />Registered Company Number: 03388137<br />Registered Office Address: Somerset House, Strand, London, WC2R 1LA<br />Registered in England &amp; Wales</p>
+  </div>
+</div>
+<nav id="block-menu-menu-sub-footer-menu" role="navigation" class="block block--menu block--menu-menu-sub-footer-menu">
+      
+  <ul class="menu"><li class="first leaf"><a href="/cookie-policy">Cookie Policy</a></li>
+<li class="leaf"><a href="/privacy-policy">Privacy Policy</a></li>
+<li class="leaf"><a href="/ticket-terms-and-conditions">Ticket Terms and Conditions</a></li>
+<li class="last leaf"><a href="/customer-feedback-and-complaints-policy">Customer Feedback and Complaints Policy</a></li>
+</ul></nav>
+    </div>
+  </div>
+  </footer>
+
+</div>  </body>
+</html>
